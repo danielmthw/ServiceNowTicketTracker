@@ -13,6 +13,7 @@ import requests
 import tempfile
 import subprocess
 
+
 APP_NAME = "Ticket Tracker"
 APPDATA_DIR = os.path.join(os.getenv("APPDATA"), APP_NAME)
 
@@ -25,7 +26,7 @@ STATES = ["New", "In Progress", "On Hold", "Resolved", "Cancelled"]
 
 
 APP_VERSION = "1.0.0"
-VERSION_CHECK_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/version.txt"
+VERSION_CHECK_URL = "https://raw.githubusercontent.com/danielmthw/ServiceNowTicketTracker/main/version.txt"
 
 def resource_path(relative_path):
     try:
@@ -38,15 +39,15 @@ def resource_path(relative_path):
 
 def auto_update():
     try:
-        response = requests.get(VERSION_CHECK_URL, timeout=5)
+        response = requests.get(VERSION_CHECK_URL, timeout=5, verify=False)
         latest_version = response.text.strip()
 
         if latest_version != APP_VERSION:
-            download_url = f"https://github.com/yourusername/yourrepo/releases/download/v{latest_version}/SNReminderApp-{latest_version}.exe"
+            download_url = f"https://github.com/danielmthw/ServiceNowTicketTracker/releases/download/v{latest_version}/TicketTracker.exe"
 
             if messagebox.askyesno("Update Available", f"A new version ({latest_version}) is available.\n\nDownload and install now?"):
                 temp_dir = tempfile.gettempdir()
-                exe_path = os.path.join(temp_dir, f"SNReminderApp-{latest_version}.exe")
+                exe_path = os.path.join(temp_dir, f"TicketTracker-{latest_version}.exe")
 
                 with requests.get(download_url, stream=True) as r:
                     with open(exe_path, 'wb') as f:
