@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "05/02/2025 08:00:00 AM",
+    "caller": "Ali Khan",
+    "title": "Password reset",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 08:05:00 AM",
+    "caller": "Emily Zhang",
+    "title": "Cannot access email",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Software Support",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:10:00 AM",
+    "caller": "Jane Doe",
+    "title": "Printer not working",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Service Desk",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:15:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "Slow computer",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "IT Admin",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:20:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "System crash",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 08:25:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Slow computer",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Hardware Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:30:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Slow computer",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Software Support",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 08:35:00 AM",
+    "caller": "Priya Patel",
+    "title": "Password reset",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Service Desk",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:40:00 AM",
+    "caller": "Priya Patel",
+    "title": "Password reset",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Software Support",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 08:45:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Software install",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Hardware Support",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 08:50:00 AM",
+    "caller": "Priya Patel",
+    "title": "Slow computer",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Service Desk",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 08:55:00 AM",
+    "caller": "Priya Patel",
+    "title": "Password reset",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:00:00 AM",
+    "caller": "John Smith",
+    "title": "Printer not working",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:05:00 AM",
+    "caller": "Ali Khan",
+    "title": "VPN issue",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Software Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:10:00 AM",
+    "caller": "Ali Khan",
+    "title": "Slow computer",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:15:00 AM",
+    "caller": "Emily Zhang",
+    "title": "VPN issue",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:20:00 AM",
+    "caller": "Priya Patel",
+    "title": "Slow computer",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Network Team",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:25:00 AM",
+    "caller": "Ali Khan",
+    "title": "Software install",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Service Desk",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 09:30:00 AM",
+    "caller": "Ali Khan",
+    "title": "Printer not working",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Software Support",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:35:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "Cannot access email",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Network Team",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 09:40:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "System crash",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:45:00 AM",
+    "caller": "Jane Doe",
+    "title": "Password reset",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Service Desk",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 09:50:00 AM",
+    "caller": "Priya Patel",
+    "title": "Printer not working",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Network Team",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 09:55:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "Password reset",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 10:00:00 AM",
+    "caller": "Emily Zhang",
+    "title": "System crash",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Service Desk",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:05:00 AM",
+    "caller": "Emily Zhang",
+    "title": "Printer not working",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:10:00 AM",
+    "caller": "John Smith",
+    "title": "Printer not working",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "IT Admin",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:15:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "VPN issue",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Service Desk",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:20:00 AM",
+    "caller": "Priya Patel",
+    "title": "Printer not working",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Software Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:25:00 AM",
+    "caller": "Ali Khan",
+    "title": "Cannot access email",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "IT Admin",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 10:30:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Printer not working",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Software Support",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 10:35:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Cannot access email",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 10:40:00 AM",
+    "caller": "John Smith",
+    "title": "Cannot access email",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Security",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:45:00 AM",
+    "caller": "Priya Patel",
+    "title": "Software install",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Network Team",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 10:50:00 AM",
+    "caller": "Jane Doe",
+    "title": "Slow computer",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "IT Admin",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 10:55:00 AM",
+    "caller": "Jane Doe",
+    "title": "Cannot access email",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Hardware Support",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 11:00:00 AM",
+    "caller": "Jane Doe",
+    "title": "Software install",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "IT Admin",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:05:00 AM",
+    "caller": "Priya Patel",
+    "title": "Printer not working",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "Resolved",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 11:10:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "VPN issue",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "IT Admin",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 11:15:00 AM",
+    "caller": "Ali Khan",
+    "title": "Software install",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Service Desk",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:20:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "System crash",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Hardware Support",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 11:25:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "Password reset",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Service Desk",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:30:00 AM",
+    "caller": "Ali Khan",
+    "title": "Software install",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:35:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "VPN issue",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Hardware Support",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 11:40:00 AM",
+    "caller": "Ali Khan",
+    "title": "VPN issue",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:45:00 AM",
+    "caller": "Ali Khan",
+    "title": "System crash",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Hardware Support",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:50:00 AM",
+    "caller": "Daniel Mathew",
+    "title": "Slow computer",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 11:55:00 AM",
+    "caller": "Carlos Rivera",
+    "title": "Software install",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Hardware Support",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:00:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "Software install",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Security",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:05:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "VPN issue",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Security",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:10:00 PM",
+    "caller": "Ali Khan",
+    "title": "Password reset",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "IT Admin",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:15:00 PM",
+    "caller": "John Smith",
+    "title": "System crash",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Software Support",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:20:00 PM",
+    "caller": "Carlos Rivera",
+    "title": "System crash",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Network Team",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:25:00 PM",
+    "caller": "Carlos Rivera",
+    "title": "Password reset",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:30:00 PM",
+    "caller": "Ali Khan",
+    "title": "System crash",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:35:00 PM",
+    "caller": "Carlos Rivera",
+    "title": "Printer not working",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 12:40:00 PM",
+    "caller": "Jane Doe",
+    "title": "Slow computer",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Network Team",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:45:00 PM",
+    "caller": "Emily Zhang",
+    "title": "VPN issue",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:50:00 PM",
+    "caller": "John Smith",
+    "title": "Cannot access email",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Software Support",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 12:55:00 PM",
+    "caller": "Emily Zhang",
+    "title": "System crash",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:00:00 PM",
+    "caller": "Jane Doe",
+    "title": "Slow computer",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:05:00 PM",
+    "caller": "Jane Doe",
+    "title": "Printer not working",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:10:00 PM",
+    "caller": "Priya Patel",
+    "title": "Slow computer",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:15:00 PM",
+    "caller": "Priya Patel",
+    "title": "Password reset",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "IT Admin",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:20:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "Cannot access email",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:25:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "Cannot access email",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Hardware Support",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:30:00 PM",
+    "caller": "Jane Doe",
+    "title": "VPN issue",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Software Support",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:35:00 PM",
+    "caller": "Ali Khan",
+    "title": "Slow computer",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "IT Admin",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 01:40:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "Password reset",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:45:00 PM",
+    "caller": "Ali Khan",
+    "title": "Cannot access email",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Software Support",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:50:00 PM",
+    "caller": "Ali Khan",
+    "title": "System crash",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Checked cables and drivers.",
+    "assignment_group": "Network Team",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 01:55:00 PM",
+    "caller": "Priya Patel",
+    "title": "Software install",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Network Team",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 02:00:00 PM",
+    "caller": "John Smith",
+    "title": "Software install",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "IT Admin",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:05:00 PM",
+    "caller": "John Smith",
+    "title": "Software install",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Security",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 02:10:00 PM",
+    "caller": "Priya Patel",
+    "title": "VPN issue",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Software Support",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:15:00 PM",
+    "caller": "Priya Patel",
+    "title": "Slow computer",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Service Desk",
+    "state": "Pending",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:20:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Slow computer",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:25:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Slow computer",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Service Desk",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:30:00 PM",
+    "caller": "Ali Khan",
+    "title": "Password reset",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "IT Admin",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 02:35:00 PM",
+    "caller": "Jane Doe",
+    "title": "Password reset",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:40:00 PM",
+    "caller": "Carlos Rivera",
+    "title": "Software install",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Software Support",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 02:45:00 PM",
+    "caller": "John Smith",
+    "title": "Printer not working",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Network Team",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:50:00 PM",
+    "caller": "Jane Doe",
+    "title": "Printer not working",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 02:55:00 PM",
+    "caller": "John Smith",
+    "title": "VPN issue",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Network Team",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 03:00:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Slow computer",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Hardware Support",
+    "state": "In Progress",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:05:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Cannot access email",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Service Desk",
+    "state": "Closed",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 03:10:00 PM",
+    "caller": "Carlos Rivera",
+    "title": "VPN issue",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Hardware Support",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:15:00 PM",
+    "caller": "Priya Patel",
+    "title": "Password reset",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "IT Admin",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:20:00 PM",
+    "caller": "Ali Khan",
+    "title": "Password reset",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Network Team",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 03:25:00 PM",
+    "caller": "Priya Patel",
+    "title": "Cannot access email",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:30:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Slow computer",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Provided temporary workaround.",
+    "assignment_group": "Software Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:35:00 PM",
+    "caller": "Priya Patel",
+    "title": "Printer not working",
+    "description": "Computer takes over 10 minutes to boot.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "Security",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:40:00 PM",
+    "caller": "Ali Khan",
+    "title": "Password reset",
+    "description": "VPN connection fails with error code 720.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Security",
+    "state": "Resolved",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:45:00 PM",
+    "caller": "Emily Zhang",
+    "title": "System crash",
+    "description": "System repeatedly crashes during normal operations.",
+    "additional_notes": "Requested logs for further analysis.",
+    "assignment_group": "Hardware Support",
+    "state": "Closed",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 03:50:00 PM",
+    "caller": "Daniel Mathew",
+    "title": "Cannot access email",
+    "description": "User reports being unable to log into their email account.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Security",
+    "state": "New",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 03:55:00 PM",
+    "caller": "Emily Zhang",
+    "title": "Printer not working",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Escalated to tier 2.",
+    "assignment_group": "Hardware Support",
+    "state": "In Progress",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 04:00:00 PM",
+    "caller": "Priya Patel",
+    "title": "Slow computer",
+    "description": "Forgot password and unable to reset.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Service Desk",
+    "state": "Pending",
+    "done": true
+  },
+  {
+    "timestamp": "05/02/2025 04:05:00 PM",
+    "caller": "Jane Doe",
+    "title": "Printer not working",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "User is remote.",
+    "assignment_group": "IT Admin",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 04:10:00 PM",
+    "caller": "John Smith",
+    "title": "Cannot access email",
+    "description": "Office printer is displaying a jam error despite no visible jam.",
+    "additional_notes": "Contacted vendor support, awaiting reply.",
+    "assignment_group": "Hardware Support",
+    "state": "New",
+    "done": false
+  },
+  {
+    "timestamp": "05/02/2025 04:15:00 PM",
+    "caller": "John Smith",
+    "title": "VPN issue",
+    "description": "Needs Adobe Acrobat Pro installed on workstation.",
+    "additional_notes": "Tried restarting. Issue persists.",
+    "assignment_group": "Hardware Support",
+    "state": "Closed",
+    "done": true
+  }
+]
