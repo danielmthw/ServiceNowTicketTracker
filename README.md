@@ -14,8 +14,7 @@ In fast-moving IT environments, it's common for technicians to get caught up in 
 Whether you're in a solo IT role or part of a larger team, Ticket Tracker helps turn “I’ll log it later” into “Already done.”
 
 ## Screenshots
-
-![ ](assets/screenshot.png)
+Main, Settings and Reminder Windows ![](screenshot.png)
 
 ## Features
 
