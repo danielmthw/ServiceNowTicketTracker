@@ -41,7 +41,7 @@ Just download and run the installer — no Python setup required.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/TicketTrackerApp.git
+   git clone https://github.com/danielmthw/TicketTrackerApp.git
    cd TicketTrackerApp
    ```
 
