@@ -1,0 +1,5 @@
+{
+  "reminders_enabled": true,
+  "reminder_interval": 60,
+  "default_view_mode": "Full"
+}
